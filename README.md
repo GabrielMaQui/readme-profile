@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Gabriel and I'm a student , from UNSA</h2>
 
 ###
+Soy Full Stack Developer con experiencia en el manejo de diversos lenguajes de programación y frameworks. Me apasiona compartir conocimientos, aprender nuevas herramientas y colaborar con personas de diferentes perfiles. Mi objetivo es contribuir al desarrollo de soluciones innovadoras mientras continúo creciendo profesionalmente y ampliando mis horizontes en el mundo de la tecnología.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielMaQui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,6 +9,8 @@
 </div>
 
 ###
+
+
 
 <br clear="both">
 
